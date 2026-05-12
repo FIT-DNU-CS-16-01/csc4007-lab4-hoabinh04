@@ -1,0 +1,12 @@
+{
+  "dataset": "imdb",
+  "seed": 42,
+  "model_type": "gru",
+  "bidirectional": false,
+  "num_layers": 1,
+  "test_macro_f1": 0.8565548359740951,
+  "test_accuracy": 0.85656,
+  "best_val_macro_f1": 0.8711995512019917,
+  "wandb_enabled": true,
+  "wandb_mode": "online"
+}
